@@ -9,6 +9,7 @@ namespace test
             Console.WriteLine("Hello World!");
             Console.WriteLine("Some feature");
             Console.WriteLine("Some feature");
+            Console.WriteLine("Some feature");
         }
     }
 }
